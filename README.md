@@ -6,9 +6,14 @@ Form configuration allows us to modify the labels according to our purpose by us
 On the User home page, Browse by category, Browse courses by user type and Browse by subject are getting their labels through form configuration. Here we are passing the request, and getting a response accordingly.
 1. &nbsp;If Suppose the user is logged in as an admin, the Learn, Manage and Act section in the User home page will appear as shown in the below screenshot.
 &nbsp;
-![userhome (4) (2).jpg](https://www.dropbox.com/s/sba4nk23ufh2jfw/userhome%20%284%29%20%282%29.jpg?dl=0&raw=1)
 &nbsp;
-  The request we are passing will be,
+&nbsp;
+![userhome (4) (2).jpg](https://www.dropbox.com/s/sba4nk23ufh2jfw/userhome%20%284%29%20%282%29.jpg?dl=0&raw=1)
+ &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+The request we are passing will be,
 
 ```sh
 "request": {
